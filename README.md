@@ -9,4 +9,4 @@ Si, bueno... dentro de la **sarasa** que se necesita para practicar mis habilida
 
 ---
 
-En teoria esto deberia ser el archivo introductorio a mi proyecto de software.
+En teoria esto deberia ser el archivo introductorio a mi proyecto de desarrollo de software.
